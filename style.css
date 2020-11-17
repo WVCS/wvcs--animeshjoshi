@@ -1,0 +1,33 @@
+  h1{
+  color: Red;
+  text-align: Center;
+    font-size: 65px;
+  margin: 45
+  padding: 0
+}
+ 
+  ul {
+  list-style-type: none;
+  display: block;
+  background-color: black;
+  width: 100%;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+li {
+  display: inline;
+  float: left;
+width: 200px;
+padding: 5px;
+  margin: 5px;}
+
+li a{
+  display: inline;
+  padding: 10px 50px;
+  color: red;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
